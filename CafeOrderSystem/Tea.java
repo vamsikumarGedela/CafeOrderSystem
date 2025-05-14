@@ -1,4 +1,3 @@
-/* Vamsi Kumar Gedela E12705869*/
 package CafeOrderSystem;
 import java.time.LocalDate;
 
