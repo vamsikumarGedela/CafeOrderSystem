@@ -1,14 +1,13 @@
-/* Vamsi Kumar Gedela E12705869 */
 package CafeOrderSystem;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.util.Scanner;
 
-public class CafeOrderSystem {		/* Chapter 2: Entry point – writing your first Java application  */
+public class CafeOrderSystem {		
     @SuppressWarnings("resource")
 	public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);   /* Chapter 2: Using Scanner for console input */
-        LocalDate today = LocalDate.now();			/*Chapter 14: Working with dates and times */
+        Scanner scanner = new Scanner(System.in); 
+        LocalDate today = LocalDate.now();			
         DayOfWeek dayOfWeek = today.getDayOfWeek();
 
         System.out.println("Date: " + today);
