@@ -22,7 +22,7 @@ A console-based Java application that simulates a cafe ordering system. It allow
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/cafe-ordering-system.git
+   git clone https://github.com/vamsikumarGedela/CafeOrderSystem.git
    cd cafe-ordering-system
    ```
 2. Compile the source code:
